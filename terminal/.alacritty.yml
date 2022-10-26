@@ -24,7 +24,7 @@ key_bindings:
 colors:
   # Default colors
   primary:
-    background: "0x192330" # "0x162331"
+    background: "0x011627"
     foreground: "0xd6deeb"
 
   # Colors the cursor will use if `custom_cursor_colors` is true
