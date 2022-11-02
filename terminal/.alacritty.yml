@@ -1,9 +1,13 @@
 font:
+  size: 16.0
   normal:
     family: MesloLGS NF
 
 window:
   decorations: Transparent
+  dimensions:
+    columns: 140
+    lines: 40
   padding:
     x: 8
     y: 30
