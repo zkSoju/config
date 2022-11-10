@@ -4,6 +4,7 @@ font:
     family: MesloLGS NF
 
 window:
+  opacity: 0.8
   decorations: Transparent
   dimensions:
     columns: 140
